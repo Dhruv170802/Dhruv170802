@@ -1,19 +1,19 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=+Hello,+Nice+To+Meet+You;I'm+Dhwanil+Chauhan,+A+CSE+Student;A+Machine+Learning+Enthusiast;+Love+To+Connect+The+Dots;And+A+Problem+Solver">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=+Hello,+Nice+To+Meet+You;I'm+Dhruv+Patel,+A+CSE+Student;A+Machine+Learning+Enthusiast">
 </p>
 
 <hr>
 
 ## About
 
-I am Dhwanil Chauhan, a machine learning enthusiast from India. I am currently pursuing a Masters’s degree in Computer Science as a result of my quest for advanced learnings in technology, specifically related to data science, statistics, computing methodologies, artificialintelligence and advanced machine learning tools.
+I am Dhruv Patel, a passionate software engineer and data science enthusiast from India, currently pursuing my Master’s degree in Computer Science at the University of Texas at Arlington. With a strong academic foundation and hands-on experience, my interests lie in artificial intelligence, data analysis, and full-stack application development. I’ve worked on real-world projects involving predictive modeling, machine learning, and web-based diagnostic tools.
 
 
  <img align="right" alt="GIF" src="./images/code.gif" width="300" height="210" />
  
 - I’m currently working on Achieving My Milestone:)
-- I’m currently learning everything there is about **Machine Learning**  
-- Do reach out to me, [email](mailto:dhwanil832@gmail.com) :)
+- I’m currently focused on mastering Machine Learning and AI, building real-world projects using tools like TensorFlow and PyTorch. 
+- Do reach out to me, [email](mailto:dhruv170802@gmail.com) :)
 - Ask me about anything, I am always happy to help :)
 
 <h3 align="left">Languages and Tools:</h3>
