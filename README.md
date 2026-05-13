@@ -6,7 +6,7 @@
 
 ## About
 
-I am Dhruv Patel, a passionate software engineer and data science enthusiast from India, currently pursuing my Master’s degree in Computer Science at the University of Texas at Arlington. With a strong academic foundation and hands-on experience, my interests lie in artificial intelligence, data analysis, and full-stack application development. I’ve worked on real-world projects involving predictive modeling, machine learning, and web-based diagnostic tools.
+I am Dhruv Patel, a passionate software engineer and data science enthusiast from USA, completed my Master’s degree in Computer Science at the University of Texas at Arlington. With a strong academic foundation and hands-on experience, my interests lie in artificial intelligence, data analysis, and full-stack application development. I’ve worked on real-world projects involving predictive modeling, machine learning, and web-based diagnostic tools.
 
 
  <img align="right" alt="GIF" src="./images/code.gif" width="300" height="210" />
